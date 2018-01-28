@@ -1,3 +1,3 @@
 # NAYA
 study data science
-hello and welcome Hodaya&Avital
+hello and welcome Hodaya & Avital
